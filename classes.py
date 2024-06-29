@@ -201,4 +201,4 @@ list_of_students.sort(key=get_sred_grade, reverse=True)
 
 for i in list_of_students:
     print(i)
-#_=input()
+_=input()
